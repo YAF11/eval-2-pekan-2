@@ -18,7 +18,7 @@ let data = {
 }
 
 for (const jumlah in data) {
- jumlah++
+ 
   console.log(data[jumlah]);  
 }
 
